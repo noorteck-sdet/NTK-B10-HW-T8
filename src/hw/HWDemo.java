@@ -6,4 +6,8 @@ public class HWDemo {
 		System.out.println("HW");
 		System.out.println("Hello Team 8, This is Hayder...");
 	}
+	
+	public void printGreetings() {
+		System.out.println("Hi team. How is your day going?");
+	}
 }
