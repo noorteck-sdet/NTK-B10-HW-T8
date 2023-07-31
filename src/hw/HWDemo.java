@@ -5,6 +5,7 @@ public class HWDemo {
 	public static void main(String[] args) {
 		System.out.println("HW");
 		System.out.println("Hello Team 8, This is Hayder...");
+
 	}
 	
 	public void printGreetings() {
@@ -17,5 +18,9 @@ public class HWDemo {
 	
 	public void secondGreeting() {
 		System.out.println("Thank you Hayder. You as well. Waiting on Maria and Steven now.........");
+	}
+
+	public void FirstGreeting() {
+		System.out.println("Hi team, hope everybody have a good night...");
 	}
 }
