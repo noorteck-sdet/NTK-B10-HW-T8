@@ -14,4 +14,8 @@ public class HWDemo {
 	public void secondPushByHayder() {
 		System.out.println("Hi Soni,I am doing well,Good Job...");
 	}
+	
+	public void secondGreeting() {
+		System.out.println("Thank you Hayder. You as well. Waiting on Maria and Steven now.........");
+	}
 }
