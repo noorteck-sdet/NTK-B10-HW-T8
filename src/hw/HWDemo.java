@@ -23,4 +23,8 @@ public class HWDemo {
 	public void FirstGreeting() {
 		System.out.println("Hi team, hope everybody have a good night...");
 	}
+	
+	public void SecondAttempt() {
+		System.out.println("Second attempt to push, just to practice...");
+	}
 }
