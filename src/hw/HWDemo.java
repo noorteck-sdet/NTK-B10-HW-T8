@@ -10,4 +10,8 @@ public class HWDemo {
 	public void printGreetings() {
 		System.out.println("Hi team. How is your day going?");
 	}
+
+	public void secondPushByHayder() {
+		System.out.println("Hi Soni,I am doing well,Good Job...");
+	}
 }
