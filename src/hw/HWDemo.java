@@ -7,6 +7,9 @@ public class HWDemo {
 		System.out.println("Hello Team 8, This is Hayder...");
 		System.out.println("It's becoming easy....");
 
+		int a = 5;
+		int b = 10;
+
 	}
 	
 	public void printGreetings() {
@@ -37,5 +40,10 @@ public class HWDemo {
 	}
 	public void haveAGreatNight () {
 		System.out.println("See you guys tomorrow");
+	}
+
+	public void add(int a, int b) {
+		System.out.println(a + b);
+
 	}
 }
