@@ -32,4 +32,7 @@ public class HWDemo {
 	public void watingMaria() {
 		System.out.println("Hi Team,Let wate Maria's code...");
 	}
+	public void midNightCode () {
+		System.out.println("Sorry guys for the late attempt");
+	}
 }
