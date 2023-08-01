@@ -27,4 +27,8 @@ public class HWDemo {
 	public void SecondAttempt() {
 		System.out.println("Second attempt to push, just to practice...");
 	}
+	
+	public void watingMaria() {
+		System.out.println("Hi Team,Let wate Maria's code...");
+	}
 }
