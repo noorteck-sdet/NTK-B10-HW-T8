@@ -35,4 +35,7 @@ public class HWDemo {
 	public void midNightCode () {
 		System.out.println("Sorry guys for the late attempt");
 	}
+	public void haveAGreatNight () {
+		System.out.println("See you guys tomorrow");
+	}
 }
